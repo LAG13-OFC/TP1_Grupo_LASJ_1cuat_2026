@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="QQ8KS_umFK-3CyKYS68o">
-    <mxGraphModel dx="2847" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWA-UGD6j3wb5kQ7hoKe-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="ccontadorLogin &amp;gt; 0" vertex="1">
+        <mxCell id="kWA-UGD6j3wb5kQ7hoKe-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="contadorLogin &amp;gt; 0" vertex="1">
           <mxGeometry height="60" width="171" x="292.5" y="610" as="geometry" />
         </mxCell>
         <mxCell id="kWA-UGD6j3wb5kQ7hoKe-21" edge="1" parent="1" source="kWA-UGD6j3wb5kQ7hoKe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.531;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="kWA-UGD6j3wb5kQ7hoKe-4">
@@ -97,7 +97,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kWA-UGD6j3wb5kQ7hoKe-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="ccontadorLogin != 0" vertex="1">
+        <mxCell id="kWA-UGD6j3wb5kQ7hoKe-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="contadorLogin != 0" vertex="1">
           <mxGeometry height="60" width="171" x="292.5" y="710" as="geometry" />
         </mxCell>
         <mxCell id="kWA-UGD6j3wb5kQ7hoKe-42" edge="1" parent="1" source="kWA-UGD6j3wb5kQ7hoKe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" target="kWA-UGD6j3wb5kQ7hoKe-36">
